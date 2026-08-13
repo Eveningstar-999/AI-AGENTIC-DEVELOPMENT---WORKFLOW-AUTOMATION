@@ -179,3 +179,23 @@ The experience also helped me understand how traditional software engineering pr
 This project gave me practical exposure to an end-to-end AI-assisted software engineering workflow, starting from high-level task requirements and continuing through agent instructions, implementation, repository management, testing, validation, debugging, and final evaluation.
 
 It strengthened my practical understanding of AI agents and their role in software development while also improving my experience with Git/GitHub workflows, automated testing, Docker-based environments, structured task execution, and software validation.
+
+
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+## NOTICE
+
+This repository documents my project-based work as an AI Agent Specialist with Handshake AI through the Dynamo project.
+The work involved working with structured software engineering tasks inside GitHub repositories and guiding AI coding agents through task execution, implementation, testing, debugging, validation, and evaluation workflows.
+The actual Handshake/Dynamo project repository is kept separate. This public repository serves as a portfolio-level documentation of the work and technical experience gained through the project.
+
+
+
